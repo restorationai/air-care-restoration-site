@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Merkel, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Merkel"
-meta_description: "24/7 vandalism cleanup in Merkel, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup merkel"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Merkel, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Merkel"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Merkel, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal merkel"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "205bb0f1e2ce1b65"
 generated_at: "2026-09-24T23:24:14.111938+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/merkel-tx/", "/service-areas/merkel-tx/fire-damage-restoration/", "/service-areas/merkel-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Merkel", "url": "/service-areas/merkel-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/merkel-tx/", "/service-areas/merkel-tx/fire-damage-restoration/", "/service-areas/merkel-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Merkel", "url": "/service-areas/merkel-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach a vandalized property in Merkel?", "answer": "Air Care Restoration operates 24/7 out of Abilene, and Merkel is a direct run west on I-20. Call (325) 339-8723 and our dispatcher will confirm an estimated arrival time based on current crew availability and road conditions. Because Taylor County roads can ice over in winter, we communicate proactively if weather affects routing."}, {"question": "Does the dry West Texas climate around Merkel make graffiti harder to remove?", "answer": "Yes, in a practical sense. Low humidity slows the moisture-dependent chemistry in many graffiti removers, which means dwell times need to be extended and product selection matters more than it would in a humid climate. On Merkel's older masonry and weathered exterior coatings, using the wrong remover at the wrong concentration can etch or lift the base coat, so we assess the substrate before applying anything."}, {"question": "What documentation do I need for an insurance claim after vandalism in Merkel?", "answer": "Most carriers require a police report, so file with the Taylor County Sheriff's Office or Merkel PD before cleanup begins. We photograph all affected surfaces and document material types and dimensions before any work starts, producing a written scope that aligns with what adjusters need. We can bill your carrier directly where the policy permits, so you are not fronting the full cost while the claim processes."}, {"question": "Can you clean graffiti off the older brick and block buildings common in Merkel without damaging the surface?", "answer": "That is exactly the scenario that requires a material-first approach. Aged brick and painted concrete block are porous and often have soft or chalky coatings that react badly to high-pressure washing or aggressive solvents. We use a tiered chemical application matched to the substrate, followed by controlled low-pressure rinsing, to lift the paint without driving pigment deeper or damaging the face of the block."}, {"question": "What if the vandalism left a faded shadow or ghost mark on the wall after cleaning?", "answer": "On the sun-exposed masonry common in this part of Taylor County, a cleaned surface can oxidize to a visibly different shade from the surrounding wall within one season. We often recommend a spot prime and color-match coat as part of the same cleanup mobilization rather than leaving a mismatched patch. Addressing it during the initial visit costs less than scheduling a separate painting crew later."}]
 area_slug: "merkel-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Merkel"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Merkel sits in Taylor County where the West Texas wind carries grit year-round, and the same open landscape that gives the town its character also makes commercial storefronts, agricultural outbuildings, and roadside properties easy targets for spray paint, broken glass, and overnight property damage. When vandalism hits, the dry, alkaline air bakes paint into porous masonry and sun-faded siding within hours, making same-day cleanup the difference between a surface-level fix and a full repaint or panel replacement. Air Care Restoration responds 24/7 out of Abilene and can reach Merkel to assess the damage and begin work before that window closes.

@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Potosi, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Potosi"
-meta_description: "24/7 vandalism cleanup in Potosi, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup potosi"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Potosi, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Potosi"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Potosi, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal potosi"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "b3e6c15953445805"
 generated_at: "2026-09-24T23:30:54.926130+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/potosi-tx/", "/service-areas/potosi-tx/fire-damage-restoration/", "/service-areas/potosi-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Potosi", "url": "/service-areas/potosi-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/potosi-tx/", "/service-areas/potosi-tx/fire-damage-restoration/", "/service-areas/potosi-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Potosi", "url": "/service-areas/potosi-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach a Potosi property after a vandalism call?", "answer": "Air Care Restoration dispatches from Abilene and operates 24 hours a day, seven days a week, so Potosi properties in Taylor County are reachable at any hour. The route east from Abilene along US-83 and the FM road network is direct, keeping drive time minimal. We do not route calls through a regional center, so dispatch is immediate."}, {"question": "Does the dry West Texas climate around Potosi affect how quickly spray paint sets into masonry?", "answer": "Yes, and it is one of the more important reasons to call quickly. In the low-humidity, high-temperature conditions typical of Taylor County summers, aerosol paint can begin bonding with porous limestone or concrete block within minutes of application. The longer it sits, the deeper the pigment penetrates, which shifts the job from surface cleaning to refinishing. Early response gives us the best chance of a clean removal without damaging the underlying material."}, {"question": "Will my Texas homeowners insurance cover vandalism cleanup in Potosi?", "answer": "Vandalism is a named peril under most standard Texas homeowners policies, so coverage is common, though deductibles and exclusions vary by carrier. We document the damage thoroughly with photographs and a written scope before work begins, which is the format most adjusters need to process the claim efficiently. We can also bill carriers directly in many cases, so you are not fronting the full cost while waiting for reimbursement."}, {"question": "What is involved in broken glass cleanup on a Potosi rural property with gravel driveways or caliche soil?", "answer": "Gravel and caliche surfaces are among the more labor-intensive glass cleanup scenarios because shards scatter and settle into irregular material rather than sitting on a flat hard surface. We use a combination of magnetic sweeping for any ferrous debris, fine-mesh collection rakes, and adhesive rollers for the final pass. In outdoor areas, we also extend the collection perimeter beyond the obvious impact zone, since glass migrates in caliche soil after rain."}, {"question": "Do you handle board-up and temporary securing of a Potosi property after a break-in, or only the cleanup?", "answer": "We handle both. If forced entry has left a door, window frame, or exterior wall compromised, we secure the opening before leaving the site. Leaving a rural Potosi property unsecured overnight creates additional risk, particularly on acreage lots where a second incident could go unnoticed for hours. Board-up is part of the initial response, not a separate call."}]
 area_slug: "potosi-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Potosi"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Potosi sits just east of Abilene in Taylor County, where the wide-open West Texas landscape and tight-knit rural character make vandalism incidents feel especially disruptive. Whether it's spray paint across a limestone exterior, shattered windows after a break-in, or property damage left behind on a rural acreage lot, the cleanup carries urgency that goes beyond aesthetics. Air Care Restoration responds around the clock, dispatching from Abilene to Potosi properties whenever the call comes in.

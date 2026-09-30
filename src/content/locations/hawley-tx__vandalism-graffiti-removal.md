@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Hawley, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Hawley"
-meta_description: "24/7 vandalism cleanup in Hawley, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup hawley"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Hawley, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Hawley"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Hawley, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal hawley"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "b20b9a571ccdff95"
 generated_at: "2026-09-24T23:31:39.231878+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/hawley-tx/", "/service-areas/hawley-tx/fire-damage-restoration/", "/service-areas/hawley-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Hawley", "url": "/service-areas/hawley-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/hawley-tx/", "/service-areas/hawley-tx/fire-damage-restoration/", "/service-areas/hawley-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Hawley", "url": "/service-areas/hawley-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Hawley after a vandalism call?", "answer": "Air Care Restoration dispatches from Abilene and operates 24/7, so a crew can be en route to Hawley at any hour. The drive via US-277 is direct, and a dispatcher can give you a realistic arrival window when you call. Reaching the site quickly matters because West Texas heat cures spray paint fast, making removal harder the longer it waits."}, {"question": "Does the older building stock common in the Hawley area affect how graffiti is removed?", "answer": "Yes, significantly. Hardboard siding and unpainted concrete block, both common in Jones County construction, are porous and absorb spray paint rather than holding it at the surface. That means solvent and pressure settings have to be dialed down to avoid abrading the substrate, and in some cases a stain-blocking primer and repaint is the only way to fully eliminate the pigment. The assessment step before any cleaning begins is what determines the right approach for your specific surface."}, {"question": "Should I file a police report before calling for vandalism cleanup in Hawley?", "answer": "Filing a report with the Jones County Sheriff's Office or the appropriate local authority before cleanup begins is strongly recommended if you plan to file an insurance claim. Most carriers require a report number to open a vandalism claim, and starting cleanup before documentation is in place can complicate the process. We can begin photographing and assessing damage while you complete that step."}, {"question": "Does your team handle lead-paint concerns when cleaning vandalized surfaces in older Hawley homes?", "answer": "Our team holds EPA Lead-Safe certification, which applies when work involves disturbing painted surfaces in structures that may contain lead-based paint. In the Hawley area, where a portion of the housing stock predates modern paint regulations, this certification means we follow containment and disposal protocols that protect occupants and crew during the cleanup process."}, {"question": "What does vandalism cleanup actually include beyond graffiti removal?", "answer": "The scope typically covers graffiti removal matched to the substrate, broken glass collection and HEPA vacuuming for fine fragments, temporary boarding of compromised windows or doors, interior surface cleaning if the damage extended inside, and full photo documentation for insurance purposes. If a break-in left behind biohazard material, that element is handled under a separate containment protocol before other cleanup proceeds."}]
 area_slug: "hawley-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Hawley"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Hawley sits in Jones County where the West Texas wind carries grit and the summer sun bakes exterior surfaces hard, conditions that make spray paint bond faster and cut deeper into porous masonry, wood siding, and metal than it would in a more temperate climate. When vandalism hits a property here, whether it is graffiti across a storefront facade, broken windows from a forced entry, or interior damage left behind after a break-in, the dry heat accelerates paint cure and makes removal significantly harder the longer it sits. Air Care Restoration responds around the clock and dispatches from Abilene to address vandalism damage before West Texas conditions compound the problem.

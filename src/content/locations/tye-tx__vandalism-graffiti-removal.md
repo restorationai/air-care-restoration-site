@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Tye, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Tye"
-meta_description: "24/7 vandalism cleanup in Tye, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup tye"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Tye, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Tye"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Tye, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal tye"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "3febb89ca3d91eed"
 generated_at: "2026-09-24T23:24:57.669156+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/tye-tx/", "/service-areas/tye-tx/fire-damage-restoration/", "/service-areas/tye-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Tye", "url": "/service-areas/tye-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/tye-tx/", "/service-areas/tye-tx/fire-damage-restoration/", "/service-areas/tye-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Tye", "url": "/service-areas/tye-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Tye from Abilene for a vandalism call?", "answer": "Tye is a short drive west of our Abilene headquarters via I-20, so response times are among the fastest we offer in the region. We operate 24/7, so a call at any hour connects you with a dispatcher who can confirm crew availability and get someone moving. We do not quote specific minute estimates, but the route is direct and uncomplicated."}, {"question": "Does the West Texas heat in the Tye area affect how quickly graffiti needs to be removed?", "answer": "Yes, significantly. Aerosol paint cures much faster on hot surfaces, and exterior masonry or metal in Tye can reach temperatures in summer that bond paint within hours rather than days. Graffiti that might be chemically lifted with minimal effort in the morning can require mechanical abrasion or repainting by afternoon if the surface has been in direct sun. Same-day response is strongly advisable during warm months."}, {"question": "Will vandalism cleanup in Tye require any Taylor County permits or inspections?", "answer": "Surface cleaning and graffiti removal typically do not trigger permitting requirements, but structural repairs, replacing a door frame, repairing a window opening, or patching exterior cladding, may depending on scope. We review the full damage picture before starting work and flag anything that could require a permit so there are no surprises. Your insurance adjuster will also want to know if permitted work is part of the claim."}, {"question": "What is the difference between cleaning graffiti off concrete block versus metal siding on Tye commercial buildings?", "answer": "Concrete block is porous and absorbs aerosol paint quickly, so chemical penetration and dwell time are critical before any mechanical action. Unpainted or single-coat metal siding, common on older I-20 corridor buildings in Tye, requires a gentler solvent approach because aggressive chemicals can strip the existing finish. We test a small area first on any weathered surface before committing to a method across the full affected area."}, {"question": "Does homeowners or commercial property insurance typically cover vandalism cleanup costs in Tye?", "answer": "Vandalism is a named peril under most standard homeowners and commercial property policies in Texas, so cleanup and repair costs are generally covered subject to your deductible. The claim process moves faster when the damage is thoroughly documented from the start, which is why we photograph and log every affected surface before any work begins. We provide the adjuster-ready documentation directly so you are not reconstructing the damage record after the fact."}]
 area_slug: "tye-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Tye"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Tye sits just west of Abilene along the I-20 corridor, a small community where word travels fast and a spray-painted storefront or smashed window feels personal in a way it might not in a larger city. The dry, gritty West Texas wind that sweeps through Taylor County doesn't just carry dust, it works paint, adhesive residue, and shattered glass into surfaces quickly, making vandalism damage harder to reverse the longer it sits. Air Care Restoration responds to vandalism calls in Tye around the clock, bringing the same IICRC-certified process used on larger commercial losses to properties of every size.

@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Buffalo Gap, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Buffalo Gap"
-meta_description: "24/7 vandalism cleanup in Buffalo Gap, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup buffalo gap"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Buffalo Gap, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Buffalo Gap"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Buffalo Gap, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal buffalo gap"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "0614c04fef76601f"
 generated_at: "2026-09-24T23:25:10.246529+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/buffalo-gap-tx/", "/service-areas/buffalo-gap-tx/fire-damage-restoration/", "/service-areas/buffalo-gap-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Buffalo Gap", "url": "/service-areas/buffalo-gap-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/buffalo-gap-tx/", "/service-areas/buffalo-gap-tx/fire-damage-restoration/", "/service-areas/buffalo-gap-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Buffalo Gap", "url": "/service-areas/buffalo-gap-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Buffalo Gap after a vandalism call?", "answer": "Air Care Restoration operates 24/7 from its Abilene base, and Buffalo Gap is a direct drive south on FM 89 with no significant traffic congestion on that route. Dispatch begins the moment you call (325) 339-8723, day or night. Exact arrival time depends on conditions at the time of the call, but the route is one of the more predictable runs in Taylor County."}, {"question": "Does the porous limestone common in Buffalo Gap's older buildings affect how graffiti is removed?", "answer": "Yes, significantly. Locally quarried limestone used in Buffalo Gap's historic structures is more absorbent than modern masonry, and pigment can wick deep into the surface within hours in West Texas heat. High-pressure washing that works on concrete block can erode antique limestone and damage mortar joints, so the crew uses low-pressure application with surface-matched chemical removers and extended dwell times instead."}, {"question": "Do I need to file a police report before calling for vandalism cleanup in Buffalo Gap?", "answer": "Filing a report with the Taylor County Sheriff's Office or the appropriate local authority is strongly recommended before opening an insurance claim, since most carriers require it as part of the documentation. You can call Air Care Restoration at the same time, the crew will photograph and document damage on arrival regardless of where the police report is in process, so nothing is lost by starting both steps simultaneously."}, {"question": "Can Air Care Restoration handle both graffiti removal and broken glass cleanup from a forced-entry vandalism incident in Buffalo Gap?", "answer": "Yes. The scope of work covers graffiti removal, broken glass and debris clearance, and temporary board-up or window covering if glazing replacement is not immediate. All affected materials are documented photographically before and after work, and the written scope is formatted to support a standard Texas homeowners or commercial property insurance claim."}, {"question": "If my Buffalo Gap property has HOA requirements for exterior finishes, does that affect the restoration work?", "answer": "It can, specifically at the repainting or resurfacing stage. Some HOA governing documents in the area specify approved colors or finish types for exterior surfaces, and a repaired area that does not match the approved palette may require a second correction. Pulling those guidelines before the job closes out avoids that problem. The restoration crew can work within approved specifications once you have them in hand."}]
 area_slug: "buffalo-gap-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Buffalo Gap"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Buffalo Gap sits in the Taylor County wind corridor where summer heat bakes surfaces hard and winter cold cycles crack paint and caulk, conditions that make vandalism damage set faster and cut deeper than in more temperate climates. When graffiti soaks into sun-bleached masonry or broken glass grinds grit into a storefront threshold, the window for clean restoration narrows quickly. Air Care Restoration responds to vandalism calls in Buffalo Gap around the clock, bringing the same IICRC-certified, OSHA-trained crew that serves the broader Abilene region out to this small but tightly knit community.

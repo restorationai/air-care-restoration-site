@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Early, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Early"
-meta_description: "24/7 vandalism cleanup in Early, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup early"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Early, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Early"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Early, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal early"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "2fa9b82272794540"
 generated_at: "2026-09-24T23:25:39.987723+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/early-tx/", "/service-areas/early-tx/fire-damage-restoration/", "/service-areas/early-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Early", "url": "/service-areas/early-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/early-tx/", "/service-areas/early-tx/fire-damage-restoration/", "/service-areas/early-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Early", "url": "/service-areas/early-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Early, TX after a vandalism call?", "answer": "The team operates 24/7 and travels from Abilene via US-84, which is a direct route to Early. Because the drive is straightforward and the crew is on call at all hours, response is prompt regardless of when the incident is discovered. When you call (325) 339-8723, the dispatcher will give you a realistic arrival estimate based on current conditions."}, {"question": "Does the intense West Texas sun in the Early area affect how quickly graffiti has to be treated?", "answer": "Yes, significantly. Brown County's heat and low humidity cause aerosol and latex paint to cure into porous masonry much faster than in more temperate climates. A tag that might be cleanable with a simple solvent wash in the morning can require abrasive treatment by afternoon if the surface has been in direct sun. Calling as soon as the damage is discovered gives the crew the best chance of a less invasive removal."}, {"question": "Do I need to file a police report before your crew starts cleanup at my Early property?", "answer": "Most insurance carriers require a police report number to process a vandalism claim under the malicious mischief peril, so filing one before cleanup begins protects your claim. Air Care Restoration can start the documentation process while you handle the report, but the actual cleanup should not erase evidence before law enforcement has had a chance to respond if they intend to."}, {"question": "What makes cleaning graffiti off older brick and CMU buildings in Early more complicated than on newer construction?", "answer": "Older masonry in Early, particularly painted CMU block common in mid-century commercial buildings, often has multiple layers of paint built up over decades. Solvents that work well on a single-layer surface can lift those underlying layers if the dwell time is not controlled carefully. Air Care Restoration tests a small area first on any building with a layered paint history before committing to a full treatment, which prevents a cleanup attempt from creating a larger problem."}, {"question": "Can Air Care Restoration board up a broken storefront window or entry door in Early while permanent repairs are arranged?", "answer": "Yes. Securing the opening is part of the vandalism cleanup scope. The crew removes visible and fine glass fragments using HEPA vacuum equipment, then installs temporary boarding to close the opening against weather, dust, and unauthorized entry. That boarding stays in place until the property owner arranges permanent glazing or door replacement."}]
 area_slug: "early-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Early"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Early, TX sits in the heart of Brown County, where long stretches of open highway and a tight-knit small-town feel can create a false sense of security. Vandalism still happens here, whether it is spray paint across a storefront facade near the US-67 commercial corridor, broken windows at a rental property, or deliberate property damage left overnight. When it does, the cleanup window matters: West Texas sun bakes aerosol paint into porous masonry and stucco within hours, and broken glass left exposed invites secondary damage from blowing dust and debris. Air Care Restoration responds 24/7 from Abilene to address vandalism damage before the environment makes it worse.

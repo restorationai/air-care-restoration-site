@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Anson, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Anson"
-meta_description: "24/7 vandalism cleanup in Anson, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup anson"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Anson, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Anson"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Anson, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal anson"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "dad5ac9e1a8afc4f"
 generated_at: "2026-09-24T23:24:48.285525+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/anson-tx/", "/service-areas/anson-tx/fire-damage-restoration/", "/service-areas/anson-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/baird-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Anson", "url": "/service-areas/anson-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/anson-tx/", "/service-areas/anson-tx/fire-damage-restoration/", "/service-areas/anson-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/baird-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Anson", "url": "/service-areas/anson-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Anson for a vandalism emergency?", "answer": "We operate 24/7 out of Abilene and travel to Anson via US-83 North through Jones County. Because we respond around the clock, a call after a late-night break-in or weekend vandalism incident gets the same dispatch priority as a weekday call. We can discuss estimated arrival when you call us at (325) 339-8723."}, {"question": "Does the older masonry construction common in Anson's downtown buildings affect how graffiti removal works?", "answer": "Yes, significantly. Porous brick and aged mortar absorb spray paint more deeply than modern coated surfaces, especially after exposure to West Texas summer heat. We match the removal method to the substrate, using professional-grade chemical removers and controlled pressure washing rather than a one-size approach, to avoid driving pigment further into the material or damaging the masonry itself."}, {"question": "Can you handle lead-paint concerns on older Anson properties during vandalism cleanup?", "answer": "Yes. Many older commercial and residential buildings in Jones County have layers of paint that may include lead-based coatings. When vandalism disturbs those surfaces, EPA guidelines apply to how debris and dust are handled. Our EPA Lead-Safe certification covers that scope, so you do not need a separate contractor for that portion of the work."}, {"question": "What does the insurance documentation process look like for a vandalism claim in Anson?", "answer": "We photograph all damage before cleanup begins, itemize every affected material, and produce a written scope of work formatted to align with standard carrier review processes. If your policy separates emergency board-up and mitigation from general repair, we can document those phases individually to protect each portion of your claim."}, {"question": "How do you handle broken glass cleanup in Anson properties with gravel or caliche parking areas?", "answer": "Loose aggregate surfaces make glass recovery more involved than paved lots because shards migrate and are not visible on the surface. We work through those areas methodically rather than doing a surface sweep, because missed fragments in a parking area create an ongoing liability risk for anyone walking or working on the property."}]
 area_slug: "anson-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Anson"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Anson sits in the open flatlands of Jones County, where tight-knit community life and wide-open visibility make vandalism incidents stand out fast, but that same rural character means cleanup resources are not always close at hand. When spray paint coats a storefront on Commerce Street, broken glass litters a parking lot after a smash-and-grab, or a property comes back from a weekend with walls tagged and fixtures damaged, the window for acting is short. Leaving graffiti or structural damage exposed in West Texas sun accelerates deterioration quickly, and in a town this size, the visual impact on a business or home is hard to ignore.

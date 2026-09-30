@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Comanche, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Comanche"
-meta_description: "24/7 vandalism cleanup in Comanche, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup comanche"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Comanche, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Comanche"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Comanche, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal comanche"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "a0e983577726247e"
 generated_at: "2026-09-24T23:30:12.412948+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/comanche-tx/", "/service-areas/comanche-tx/fire-damage-restoration/", "/service-areas/comanche-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Comanche", "url": "/service-areas/comanche-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/comanche-tx/", "/service-areas/comanche-tx/fire-damage-restoration/", "/service-areas/comanche-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Comanche", "url": "/service-areas/comanche-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Comanche for an emergency board-up or vandalism cleanup?", "answer": "Comanche is approximately 70 miles from our Abilene headquarters via US-84, and we operate 24/7, so response is available at any hour. Travel time depends on conditions, but we dispatch immediately on your call. For break-ins or smashed windows, securing the opening is the first priority and happens the same visit as the cleanup assessment."}, {"question": "Comanche has a lot of older limestone and brick buildings near the courthouse square. Does that change how graffiti is removed?", "answer": "Yes, significantly. Limestone is reactive to acidic cleaners, which many standard graffiti products are. Applying the wrong remover to a limestone or lime-stucco facade can etch the stone permanently, leaving a bleached patch that is harder to disguise than the original paint. We test surface chemistry before selecting a product and use pH-neutral or alkaline formulations on any calcium-based masonry."}, {"question": "Does Comanche's summer heat affect how quickly vandalism damage needs to be addressed?", "answer": "It does. Aerosol paint cures faster in high heat, and Comanche summers regularly exceed 100 degrees. Graffiti that is applied overnight can be chemically bonded to a porous surface by mid-morning the next day. Earlier intervention means more removal options and less risk of permanent staining, especially on soft or uncoated masonry."}, {"question": "What does the vandalism cleanup process look like for a broken window or smashed door in a Comanche home?", "answer": "We start with safe glass removal using HEPA-filtered vacuums and a systematic grid sweep, because fine shards migrate into carpet and wall cavities beyond what a broom catches. We then install temporary board-up or security film to close the opening before leaving. If interior exposure caused any secondary damage, such as heat intrusion or water entry, we document that for your insurance claim as well."}, {"question": "Will my Texas homeowners or commercial policy cover vandalism cleanup in Comanche, and how does billing work?", "answer": "Vandalism is a named peril under most standard Texas property policies, so coverage is common, though deductibles and exclusions vary by carrier. We photograph all damage before any work begins, produce a written scope, and can bill carriers directly when the policy permits it. Filing a police report with Comanche PD before or alongside our arrival is typically required by insurers, and we can guide you through that step."}]
 area_slug: "comanche-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Comanche"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Comanche sits at the edge of the Edwards Plateau in Comanche County, where dry summers, occasional hail, and a small-town commercial strip along Highway 16 create a particular kind of vulnerability to vandalism. Spray paint bites deeper into the porous limestone and older brick that shows up on so many downtown storefronts and historic homes here than it does on modern concrete block. When a property gets hit, the window for clean removal is short: West Texas sun bakes pigment into masonry fast, and what is removable on a Tuesday morning can be a permanent stain by Friday.

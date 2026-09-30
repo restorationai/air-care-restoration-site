@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Coleman, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Coleman"
-meta_description: "24/7 vandalism cleanup in Coleman, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup coleman"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Coleman, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Coleman"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Coleman, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal coleman"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "b3067b21f04aba0b"
 generated_at: "2026-09-24T23:28:06.779483+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/coleman-tx/", "/service-areas/coleman-tx/fire-damage-restoration/", "/service-areas/coleman-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Coleman", "url": "/service-areas/coleman-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/coleman-tx/", "/service-areas/coleman-tx/fire-damage-restoration/", "/service-areas/coleman-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Coleman", "url": "/service-areas/coleman-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Coleman for a vandalism cleanup call?", "answer": "Coleman is a direct drive from the Abilene base via US-84, and the team operates 24/7, so a call placed at any hour reaches a live dispatcher. Travel time from Abilene to Coleman is real and we will give you an honest arrival estimate when you call, rather than a guaranteed minute figure that does not account for West Texas distances."}, {"question": "Does the porous limestone and masonry common in Coleman affect how graffiti is removed?", "answer": "Yes, significantly. Unsealed limestone and painted concrete block, both common in older Coleman commercial buildings, absorb spray paint quickly in the summer heat. Standard alkaline cleaners that work on sealed surfaces can leave mineral haze on native limestone, so the crew tests chemistry on a small section before treating the full facade. The goal is removing the graffiti without creating a secondary surface problem."}, {"question": "Will vandalism damage at my Coleman property be covered by insurance, and can you help with the claim?", "answer": "Vandalism is a named peril in most standard homeowners and commercial property policies, though coverage limits and deductibles vary. The team documents the damage on-site with timestamped photos, a written scope, and an itemized estimate formatted for adjuster review, so you are not building the claim package yourself after the fact."}, {"question": "What does broken glass cleanup actually involve, and why does it take longer than it looks?", "answer": "Broken glass, especially from a storefront or large window, scatters fine fragments well beyond the visible debris field. In Coleman's wind-driven, grit-heavy environment, those fragments can migrate and embed in surrounding surfaces before cleanup begins. The crew uses commercial-grade fine-fragment sweeping equipment and inspects the surrounding area systematically rather than relying on a visual sweep alone."}, {"question": "Can you handle both the cleanup and temporary board-up for a vandalized Coleman business in a single visit?", "answer": "Yes. The crew travels with materials for temporary board-up and window covering, so securing the property against further exposure happens the same visit as the cleanup. That matters for insurance purposes as well, since many commercial carriers require documented evidence that the property was secured after the initial incident to avoid a claim dispute over subsequent damage."}]
 area_slug: "coleman-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Coleman"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Coleman's wide-open West Texas setting might suggest a quiet, low-crime community, and in many ways it is. But even here, a spray-painted storefront on a slow Saturday night or a broken window left by an overnight intruder can stop a business cold or leave a homeowner shaken. Vandalism cleanup in Coleman carries its own wrinkles: the intense summer heat accelerates paint penetration into porous limestone and brick, and the dry, wind-driven grit that sweeps across Coleman County can grind broken glass into surfaces before a crew ever arrives.

@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Albany, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Albany"
-meta_description: "24/7 vandalism cleanup in Albany, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup albany"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Albany, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Albany"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Albany, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal albany"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "446039cbb813e836"
 generated_at: "2026-09-24T23:29:14.048728+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/albany-tx/", "/service-areas/albany-tx/fire-damage-restoration/", "/service-areas/albany-tx/mold-remediation/", "/service-areas/anson-tx/vandalism-cleanup/", "/service-areas/baird-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Albany", "url": "/service-areas/albany-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/albany-tx/", "/service-areas/albany-tx/fire-damage-restoration/", "/service-areas/albany-tx/mold-remediation/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/service-areas/baird-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Albany", "url": "/service-areas/albany-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Albany from Abilene for a vandalism call?", "answer": "Albany is accessible from Abilene via US-283 North, and our team is available around the clock, so a call at any hour puts a crew in motion. Travel time depends on road conditions along the Rolling Plains corridor, but we use the drive time to stage the correct equipment based on what you describe, so we arrive ready to work rather than assess and return."}, {"question": "Does the age of Albany's commercial buildings affect how graffiti is removed?", "answer": "Yes, significantly. Older limestone block and layered-paint brick common to Albany's central business district are porous and absorb spray paint quickly in the West Texas heat. We test each surface before applying chemical removers because aggressive products can strip historical paint layers or etch soft stone, turning a cleanup job into a full repaint. The right dwell time and the right chemistry for the specific surface are what separate a clean result from a damaged facade."}, {"question": "Will a police report affect my insurance claim for vandalism damage in Albany?", "answer": "Most Texas property carriers require a police report number as part of a vandalism claim, so filing with the Shackelford County Sheriff or Albany Police Department before or immediately after calling us is a good first step. We document the damage with photographs and a written scope from the moment we arrive, and we format that documentation for adjuster review so the claim process moves efficiently."}, {"question": "What surfaces can you treat for graffiti removal on Albany ranch and outbuilding properties?", "answer": "We work on painted metal, corrugated steel panels, wood fencing, masonry, and standard exterior paint finishes. The intense UV exposure in this part of Texas can cure spray paint faster than in more humid climates, so timing matters. For metal surfaces that have had paint baking in the sun for more than a day or two, we may combine chemical treatment with light mechanical abrasion to achieve full removal without damaging the substrate."}, {"question": "Is broken glass cleanup included in vandalism restoration, and what does that process involve?", "answer": "Yes, broken glass cleanup is part of our vandalism response. We board up any open window or door frames immediately to secure the property, then collect visible glass fragments and use specialized tools to locate and remove micro-fragments that settle into flooring, carpet, and crevices. Leaving micro-fragments behind creates an ongoing injury hazard, so we do not consider the job complete until the affected area passes a thorough inspection."}]
 area_slug: "albany-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Albany"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Albany sits in Shackelford County on the Rolling Plains, where the same wide-open geography that draws visitors to the historic courthouse square also means that vandalism incidents can go unnoticed for hours, especially on commercial storefronts, ranch outbuildings, and older brick structures along the main corridor. When spray paint, broken glass, or forced-entry damage turns up on your property, the dry West Texas climate works against you: graffiti solvents bond faster to sun-baked masonry and painted wood in this heat, and every hour of delay makes full removal harder.

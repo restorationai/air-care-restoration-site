@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Colorado City, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Colorado City"
-meta_description: "24/7 vandalism cleanup in Colorado City, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup colorado city"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Colorado City, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Colorado City"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Colorado City, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal colorado city"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "25d7211f764507b3"
 generated_at: "2026-09-24T23:29:55.153029+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/colorado-city-tx/", "/service-areas/colorado-city-tx/fire-damage-restoration/", "/service-areas/colorado-city-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Colorado City", "url": "/service-areas/colorado-city-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/colorado-city-tx/", "/service-areas/colorado-city-tx/fire-damage-restoration/", "/service-areas/colorado-city-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Colorado City", "url": "/service-areas/colorado-city-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Colorado City after a vandalism call?", "answer": "Colorado City is approximately 70 miles west of our Abilene base via I-20, and we operate 24/7, so a crew can typically be on-site in Colorado City the same morning a call comes in. We carry graffiti removal chemicals and board-up materials on every vehicle, so there is no delay waiting for a supply run."}, {"question": "Does the age of Colorado City's downtown brick buildings affect how graffiti is removed?", "answer": "Yes, significantly. Older brick and painted concrete block common in Colorado City's mid-century commercial buildings have more porous mortar joints than modern substrates. We always test a small area first to confirm the mortar is sound before applying pressure rinse, and we match the chemical remover to the specific substrate to avoid eroding the face of the brick."}, {"question": "Will West Texas heat in Colorado City make graffiti harder to remove the longer it sits?", "answer": "It can. Surface temperatures on south- and west-facing masonry in Colorado City can run 30 degrees above air temperature in summer, which partially heat-cures spray paint within hours of application. Calling us as soon as the damage is discovered gives us the best window for chemical lift before the paint bonds more deeply into the substrate."}, {"question": "Can you protect an existing mural or decorative storefront sign in Colorado City if graffiti overlaps it?", "answer": "Yes. When graffiti covers an existing mural or decorative element, we use lower-concentration removers and hand application rather than broad pressure washing to avoid damaging the underlying artwork. Let us know when you call so we bring the appropriate materials from Abilene rather than discovering the situation on-site."}, {"question": "Does a vandalism claim in Colorado City require a police report before you can start work?", "answer": "We can begin cleanup as soon as you authorize the work, and we recommend filing a police report as quickly as possible because most insurance carriers require a report number to process a vandalism claim. Our documentation package, photographs and written damage scope, is built to accompany that report and give your adjuster everything needed without a return visit."}]
 area_slug: "colorado-city-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Colorado City"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Colorado City sits in the heart of Mitchell County, where long stretches of open highway and sparse overnight foot traffic can make commercial storefronts and vacant properties easy targets for spray paint, broken windows, and forced-entry damage. When the sun comes up and the damage is visible, the clock starts immediately: West Texas heat accelerates paint cure on masonry, and broken glass left in a frame invites dust, insects, and liability. Air Care Restoration responds to vandalism calls across Colorado City 24/7, dispatching from Abilene with the equipment to begin cleanup the same day you call.

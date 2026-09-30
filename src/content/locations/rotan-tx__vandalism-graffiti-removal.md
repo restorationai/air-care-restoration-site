@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Rotan, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Rotan"
-meta_description: "24/7 vandalism cleanup in Rotan, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup rotan"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Rotan, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Rotan"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Rotan, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal rotan"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "e3fedb7b9d39b3fc"
 generated_at: "2026-09-24T23:25:55.979506+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/rotan-tx/", "/service-areas/rotan-tx/fire-damage-restoration/", "/service-areas/rotan-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Rotan", "url": "/service-areas/rotan-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/rotan-tx/", "/service-areas/rotan-tx/fire-damage-restoration/", "/service-areas/rotan-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Rotan", "url": "/service-areas/rotan-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Rotan from Abilene for a vandalism call?", "answer": "Rotan is approximately 60 miles west of our Abilene headquarters along US-180, a direct West Texas highway route with minimal traffic variables. Because we operate 24/7, we can dispatch at any hour and give you a realistic arrival window when you call. We do not quote a fixed minute figure because crew positioning varies, but the route itself is straightforward and consistent."}, {"question": "Does the older masonry construction common in Fisher County affect how graffiti is removed?", "answer": "Yes, significantly. Mid-century brick and concrete block, which is common in Rotan's commercial and older residential stock, is more porous than modern sealed surfaces. Pigment from spray paint or markers can penetrate several millimeters into the substrate quickly, especially during summer when surface temperatures are high. We use low-pressure chemical treatment rather than high-pressure washing to avoid eroding mortar joints, and we test the solvent on a small area before treating the full surface."}, {"question": "Will a vandalism claim in Rotan require a police report before cleanup can start?", "answer": "Most carriers require a police report number as part of the claim file, so filing a report with the Fisher County Sheriff's Office or local law enforcement before or immediately after you call us is the right sequence. We can begin our documentation assessment while the report is being filed, so the two processes run in parallel rather than one waiting on the other."}, {"question": "How does West Texas wind affect broken glass cleanup after a vandalism incident in Rotan?", "answer": "Fisher County's persistent wind can scatter glass shards well beyond the immediate break point, carrying fragments across parking lots, into landscaping, and occasionally into HVAC intakes or doorway thresholds. Our broken glass protocol uses a systematic grid-pattern collection followed by a fine sweep and a final magnetic pass for any metal hardware fragments, rather than a single-pass cleanup that leaves secondary hazards behind."}, {"question": "What does Air Care Restoration's vandalism documentation package include for Rotan insurance claims?", "answer": "We provide dated photographs with metadata, a line-item damage inventory, and a written scope of work prepared by an IICRC certified firm, all in a format that insurance adjusters can use directly to open and process a claim. We also note the police report number in the file. That complete packet reduces the back-and-forth that slows down vandalism claims and gets your property into the repair phase faster."}]
 area_slug: "rotan-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Rotan"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Rotan sits in the heart of Fisher County, where wide-open stretches of West Texas flatland and a tight-knit small-town character define daily life. That same openness, however, means vandalism incidents, spray paint across a storefront facade, smashed windows left by a passing storm of poor decisions, or deliberate property damage along commercial corridors, can go unnoticed for hours before anyone calls for help. When you do make that call, the cleanup needs to move fast: in a climate that swings from scorching summer heat to hard winter freezes, exposed surfaces and broken glass create compounding problems that worsen by the hour.

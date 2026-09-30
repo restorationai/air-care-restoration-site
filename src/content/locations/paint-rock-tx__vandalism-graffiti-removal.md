@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Paint Rock, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Paint Rock"
-meta_description: "24/7 vandalism cleanup in Paint Rock, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup paint rock"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Paint Rock, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Paint Rock"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Paint Rock, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal paint rock"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "f8274f7d42891bdc"
 generated_at: "2026-09-24T23:27:05.603399+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/paint-rock-tx/", "/service-areas/paint-rock-tx/fire-damage-restoration/", "/service-areas/paint-rock-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Paint Rock", "url": "/service-areas/paint-rock-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/paint-rock-tx/", "/service-areas/paint-rock-tx/fire-damage-restoration/", "/service-areas/paint-rock-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Paint Rock", "url": "/service-areas/paint-rock-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Paint Rock from Abilene for a vandalism call?", "answer": "We travel the US-83 corridor through Coleman regularly and operate 24/7, so a call placed any time of day or night gets a prompt response. The drive from Abilene to Paint Rock via US-83 is our standard route for Concho County calls, and our vehicles are stocked with graffiti removal chemicals, boarding materials, and glass cleanup equipment so work begins on arrival."}, {"question": "Does the West Texas climate affect how graffiti is removed from Paint Rock's older brick and block buildings?", "answer": "It does, significantly. High summer surface temperatures in the Concho Valley cause aerosol paint to penetrate porous masonry faster than in cooler climates, narrowing the window for chemical removal before stripping or repainting becomes necessary. We test paint type before applying any product and select chemistry matched to the substrate to avoid bleaching or driving pigment deeper into sun-cured brick or block."}, {"question": "Are mid-century buildings in Paint Rock harder to restore after a vandalism incident involving broken glass?", "answer": "Older single-pane windows common in Paint Rock's mid-twentieth century commercial and residential stock often require non-standard glass sizes that are not stocked locally or at regional big-box suppliers. We account for sourcing lead time in the project schedule and install temporary boarding to keep the property secure while replacement glass is obtained, so the building is not left exposed during the wait."}, {"question": "Will my insurance policy cover vandalism cleanup at my Paint Rock property?", "answer": "Vandalism is a named peril under most standard homeowners and commercial property policies issued in Texas, so coverage is common, though deductibles and policy limits vary. We document every affected surface with photographs and written measurements in the format most adjusters require, and we bill carriers directly where the policy allows, reducing what you need to front out of pocket."}, {"question": "What does the post-vandalism restoration scope typically include for a rural commercial property along US-83 in Paint Rock?", "answer": "A full scope covers graffiti removal or paint-over on affected exterior surfaces, broken glass containment and replacement, temporary board-up of any structural openings, interior debris and sanitation cleanup if forced entry occurred, and finish work to match the pre-loss appearance. For properties visible from the US-83 roadway, we prioritize exterior work first so the property presents cleanly to passing traffic while interior repairs are completed."}]
 area_slug: "paint-rock-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Paint Rock"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Paint Rock sits at the edge of the Concho Valley where the sparse, sun-baked landscape and long stretches of quiet highway can make commercial storefronts and rural properties feel isolated after dark. That isolation, combined with the region's tight-knit but small population, means vandalism incidents here tend to go unnoticed for hours, sometimes overnight, giving spray paint, broken glass, and forced-entry damage extra time to set into porous masonry, weathered wood siding, and sun-softened exterior coatings before anyone calls for help.

@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Eden, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Eden"
-meta_description: "24/7 vandalism cleanup in Eden, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup eden"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Eden, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Eden"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Eden, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal eden"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "95c098549283f9b6"
 generated_at: "2026-09-24T23:26:40.362597+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/eden-tx/", "/service-areas/eden-tx/fire-damage-restoration/", "/service-areas/eden-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Eden", "url": "/service-areas/eden-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/eden-tx/", "/service-areas/eden-tx/fire-damage-restoration/", "/service-areas/eden-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Eden", "url": "/service-areas/eden-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach Eden from Abilene for a vandalism call?", "answer": "We operate 24/7 and dispatch as soon as a call comes in. Eden is accessible from Abilene via US-83 South through Concho County, and we prioritize vandalism calls where a property is unsecured or has broken glass creating an active safety hazard. We do not publish a guaranteed minute figure, but we move as fast as road conditions allow."}, {"question": "Does the porous limestone and brick common in Eden's older buildings affect graffiti removal?", "answer": "Yes, significantly. Unsealed limestone and aged painted brick absorb spray paint rather than holding it on the surface, so standard pressure washing can spread pigment and damage the substrate. We use alkaline gel removers that lift paint from within the pore structure before rinsing, and we inspect under raking light afterward to catch ghosting before the job is closed out."}, {"question": "Will my insurance policy cover vandalism cleanup in Eden, and what documentation do you provide?", "answer": "Vandalism is a named peril under most standard homeowner and commercial property policies in Texas, though coverage details vary by carrier and policy. We photograph all damage systematically, write an itemized scope, and provide receipts for mitigation work so your adjuster receives a complete file. If you are uncertain whether a claim makes sense given your deductible, we can walk through the scope with you before you file."}, {"question": "What is the risk of leaving broken glass in a caliche or gravel lot in Eden after a vandalism incident?", "answer": "Caliche and decomposed granite trap glass shards between aggregate pieces in a way that a paved surface does not. A surface that looks clean after a visual sweep can still hold fragments that re-emerge when the ground is disturbed by foot traffic or vehicles, creating tire and injury hazards. We do a secondary fine-rake sweep of all unpaved areas and use a magnetic tool for metal hardware fragments before signing off on any broken glass cleanup."}, {"question": "Can you handle vandalism cleanup on agricultural or rural outbuildings outside Eden's town center?", "answer": "Yes. Concho County's low density means vandalism on outbuildings or rural properties sometimes goes unreported for a day or more, which gives spray paint time to cure in the West Texas sun and makes removal harder. We assess substrate type and paint cure state before choosing a removal method, and we can access properties off paved routes. Call (325) 339-8723 to describe the site and we will confirm logistics before dispatch."}]
 area_slug: "eden-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Eden"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Eden sits in Concho County at the edge of the Edwards Plateau, a stretch of West Texas where small-town life moves slowly and property damage of any kind tends to feel personal. When a storefront gets tagged overnight, windows get smashed, or a property gets hit by deliberate destruction, the cleanup is rarely as simple as wiping a surface. Graffiti paint bites into limestone and painted brick differently than it does on concrete block, and broken glass scattered across a caliche parking lot has a way of turning up for weeks if it is not systematically collected. Air Care Restoration responds to vandalism calls in Eden around the clock, bringing the equipment and trained crew needed to get a property back to normal without leaving secondary hazards behind.

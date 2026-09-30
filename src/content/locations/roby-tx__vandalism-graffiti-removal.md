@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Roby, TX | Air Care Restoration"
-h1: "Vandalism Cleanup in Roby"
-meta_description: "24/7 vandalism cleanup in Roby, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
-primary_keyword: "vandalism cleanup roby"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Roby, TX | Air Care Restoration"
+h1: "Graffiti Removal & Vandalism Cleanup in Roby"
+meta_description: "24/7 graffiti removal and vandalism cleanup in Roby, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+primary_keyword: "graffiti removal roby"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "5003d78fca692294"
 generated_at: "2026-09-24T23:25:38.581250+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/roby-tx/", "/service-areas/roby-tx/fire-damage-restoration/", "/service-areas/roby-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-cleanup/", "/service-areas/anson-tx/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Roby", "url": "/service-areas/roby-tx/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/roby-tx/", "/service-areas/roby-tx/fire-damage-restoration/", "/service-areas/roby-tx/mold-remediation/", "/service-areas/albany-tx/vandalism-graffiti-removal/", "/service-areas/anson-tx/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Roby", "url": "/service-areas/roby-tx/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Air Care Restoration reach a Roby property after a vandalism call?", "answer": "Air Care Restoration operates 24/7 out of Abilene, and Roby is accessible via US-180 east. The team dispatches promptly after your call and arrives with boarding materials and cleaning equipment already on the vehicle, so there is no delay waiting for a supply run once the crew reaches Fisher County."}, {"question": "Does the dry, dusty climate in Roby and Fisher County affect how graffiti is removed?", "answer": "It does, in a meaningful way. Windblown caliche dust in this part of West Texas bonds with fresh spray paint quickly, creating a composite layer that resists standard solvent application. The crew adjusts cleaning chemistry and dwell times to account for this, which prevents the ghost-image residue that can result from a one-size-fits-all approach."}, {"question": "What surfaces are most commonly affected by vandalism on Roby-area properties, and does that change the process?", "answer": "Older masonry commercial buildings and weathered wood-frame agricultural structures are common in and around Roby. Both are porous, which means paint penetrates the substrate rather than sitting on top. The crew identifies the surface type before selecting a cleaning method, because the wrong approach on porous masonry or weathered wood can drive pigment deeper or damage the material."}, {"question": "Can a broken window from vandalism in Roby cause additional damage if it is not secured quickly?", "answer": "In Fisher County's climate, yes. A broken opening in winter can admit enough cold air overnight to freeze interior pipes, and in any season the persistent West Texas wind will push dust and debris into the interior. Air Care Restoration installs temporary boarding or polycarbonate sheeting at the time of the cleanup visit to secure the opening until permanent glazing is in place."}, {"question": "Will Air Care Restoration help with the insurance claim for vandalism damage on my Roby property?", "answer": "The crew photographs all damage before any cleaning begins and produces a written scope of work that documents what was found and what was done. That documentation can be shared directly with your adjuster. For Fisher County properties where vandalism affects multiple structures, having one contractor coordinate the documentation across the full site simplifies the claim process considerably."}]
 area_slug: "roby-tx"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Roby"
 state: "TX"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Roby sits in the open stretch of Fisher County where the West Texas wind scours everything flat and the nearest city is a long drive away. That isolation is part of what makes vandalism here feel different from urban incidents: spray paint on a storefront along the main corridor, smashed windows on an agricultural building, or a defaced fence line on a rural property can sit exposed to blowing dust and fluctuating temperatures for hours before anyone notices. Air Care Restoration responds around the clock, dispatching from Abilene to address vandalism damage before the elements compound the original harm.
