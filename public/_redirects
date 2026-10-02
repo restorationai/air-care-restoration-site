@@ -22,8 +22,6 @@
 /the-art-of-connection /blog/ 301
 /the-art-of-connection/ /blog/ 301
 # home-city consolidation 2026-08-18 — home-city pages folded into home + main service pages (scripts/home_city_migrate.py)
-/service-areas/abilene-tx / 301
-/service-areas/abilene-tx/ / 301
 /service-areas/abilene-tx/air-duct-cleaning /services/air-duct-cleaning/ 301
 /service-areas/abilene-tx/air-duct-cleaning/ /services/air-duct-cleaning/ 301
 /services/asbestos-abatement /services/ 301
