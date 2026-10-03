@@ -62,7 +62,7 @@ export const brand = {
   // Operator-confirmed "licensed & insured" attestation from plan-input.json —
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: true as boolean,
-  certifications: ["IICRC CERTIFIED FIRM", "OSHA TRAINED", "IICRC WRT (WATER)", "IICRC FSRT (FIRE & SMOKE)", "EPA LEAD-SAFE CERTIFIED", "MRC2262-RCO1798-TCST-HST-OCT"] as string[],
+  certifications: ["IICRC Certified Firm", "OSHA Trained", "IICRC WRT (Water)", "IICRC FSRT (Fire & Smoke)", "EPA Lead-Safe Certified", "MRC2262-RCO1798-TCST-HST-OCT"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/aircarerestorationtx", "https://www.youtube.com/@AirCareRestorationLLC", "https://www.instagram.com/aircarerestoration/", "https://www.tiktok.com/@aircarerestoration", "https://www.linkedin.com/company/air-care-restoration/", "https://www.linkedin.com/in/sarha-boyd-45b165352", "https://maps.google.com/maps?cid=8729630138777523223", "https://www.bing.com/maps?ss=ypid.YNDB23BF4F8FEE4FAE"] as string[],
