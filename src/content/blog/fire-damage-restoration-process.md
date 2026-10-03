@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during fire damage restoration?", "ans
 published_at: "2026-08-08"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Sarha Boyd"
 ---
 Fire damage rarely ends when the flames go out. The smoke keeps moving, soot keeps settling, and water from firefighting soaks into walls and flooring while you're still processing what happened. Understanding the full restoration process, from the first hour after the fire department leaves to the day you walk back into a livable home, helps you ask the right questions, avoid costly mistakes, and know what to expect at every stage.
 

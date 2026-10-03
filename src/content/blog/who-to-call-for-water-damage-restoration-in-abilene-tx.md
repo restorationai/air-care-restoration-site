@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage restoration in Abil
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Sarha Boyd"
 ---
 **TL;DR:** For water damage in Abilene, TX, call a 24/7 IICRC-certified restoration company as soon as the water source is stopped or contained. If the water is still actively flowing from a broken supply line, shut the main valve first, then make the call. A restoration crew handles extraction, drying, and the moisture documentation your insurance claim needs; a plumber only fixes the pipe or fixture that failed.
 

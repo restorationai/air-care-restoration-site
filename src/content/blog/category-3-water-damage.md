@@ -17,6 +17,7 @@ faq: [{"question": "What is Category 3 water damage?", "answer": "Category 3 wat
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "sewage-cleanup", "biohazard-cleanup"]
 rendered: true
+author: "Sarha Boyd"
 ---
 **TL;DR:** Category 3 water damage, defined by the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), involves grossly contaminated water containing pathogens, sewage, or toxic substances. It is the most hazardous water classification. Carpet, padding, drywall, and insulation that contact Category 3 water must be removed and discarded. Cleaning and disinfecting without removing those materials is not sufficient. Professional remediation with proper PPE, containment, and disposal is required every time.
 

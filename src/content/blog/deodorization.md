@@ -17,6 +17,7 @@ faq: [{"question": "What is deodorization in restoration work?", "answer": "Deod
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Sarha Boyd"
 ---
 **TL;DR:** Professional deodorization removes odor at its source, not just over it. Technicians identify what's trapping the smell (char, saturated subfloor, contaminated insulation) and pair removal with equipment like hydroxyl generators, ozone shock treatment, thermal fogging, or HEPA air scrubbing. Most residential jobs take one to three days, depending on how deep the odor has soaked into porous materials.
 

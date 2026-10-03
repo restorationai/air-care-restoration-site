@@ -16,6 +16,7 @@ faq: [{"question": "Should I call my insurance company or a restoration company 
 published_at: "2026-08-06"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Sarha Boyd"
 ---
 The single best thing you can do after a flood, fire, or mold discovery is slow down for 30 minutes before you hire anyone. Restoration work touches your home's structure, your insurance claim, and your family's health, and the wrong contractor can make all three worse. This guide walks you through exactly what to look for, what to ask, and what should make you walk away, so you can hire with confidence instead of panic.
 

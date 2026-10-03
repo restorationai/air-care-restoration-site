@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before water damage becomes a mold proble
 published_at: "2026-08-11"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Sarha Boyd"
 ---
 Stop the water first. If a pipe burst or an appliance failed, find your main shutoff valve and turn it off before you do anything else. In most Abilene homes, that valve is near the water meter at the street or on an exterior wall facing the meter. Once the source is off, you have a narrow window, roughly 24 to 48 hours, before wet building materials become a mold problem. Here is exactly what to do with that time.
 

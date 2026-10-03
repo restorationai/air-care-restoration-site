@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls even if the drywall surface feels
 published_at: "2026-08-01"
 services: ["mold-remediation"]
 rendered: true
+author: "Sarha Boyd"
 ---
 Hidden mold doesn't always announce itself with a visible black patch on the wall. More often, it grows quietly behind drywall, under flooring, inside HVAC ducts, or above ceiling tiles, feeding on moisture that never fully dried after a slow leak, a roof drip, or a humid West Texas summer. If you're noticing something off in your home but can't pinpoint it, the seven signs below can help you figure out whether mold is the culprit and what to do about it.
 

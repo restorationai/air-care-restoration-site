@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a burst pi
 published_at: "2026-07-28"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Sarha Boyd"
 ---
 Whether your homeowners insurance covers water damage depends almost entirely on *how* the water got in. The short answer: sudden, accidental water damage is usually covered. Slow leaks, flooding from outside, and neglected maintenance usually are not. That distinction, sudden versus gradual, internal versus external, is the line adjusters draw on nearly every water claim. Understanding it before you file (or before you sign a remediation contract) can save you thousands of dollars and a lot of frustration.
 

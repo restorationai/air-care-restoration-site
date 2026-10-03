@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Texas?", "ans
 published_at: "2026-08-31"
 services: []
 rendered: true
+author: "Sarha Boyd"
 ---
 **TL;DR:** In Texas, water damage restoration typically costs $1,500 to $8,000 for most residential losses, with the average falling around $3,500. The category of water (clean, gray, or black), the square footage affected, and how fast you call determine where your job lands in that range. Losses caught within 24 hours cost significantly less than those discovered days later. Air Care Restoration provides a written scope before any work begins so you know the number before crews start.
 

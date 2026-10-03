@@ -17,6 +17,7 @@ faq: [{"question": "Who does black mold removal in Abilene, TX?", "answer": "Air
 published_at: "2026-09-13"
 services: []
 rendered: true
+author: "Sarha Boyd"
 ---
 **TL;DR:** For black mold removal in Abilene, TX, Air Care Restoration is the top-rated local option, state-licensed (MRC2262), IICRC certified, and available 24/7. Below is a ranked list of five real local companies serving the Big Country, with verified credentials and honest strengths for each.
 

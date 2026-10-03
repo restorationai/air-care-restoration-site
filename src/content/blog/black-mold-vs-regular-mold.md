@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself at home?", "answer": "Home 
 published_at: "2026-08-01"
 services: ["mold-remediation"]
 rendered: true
+author: "Sarha Boyd"
 ---
 Most mold you find in a home is not the dramatic black mold you've seen in news stories, but that doesn't mean you should ignore it. The short answer: color alone cannot tell you whether mold is dangerous. "Black mold" is a nickname for *Stachybotrys chartarum*, a specific species, but dozens of other mold species also appear black, dark green, or nearly charcoal. Conversely, some genuinely hazardous molds are white, gray, or pink. Telling them apart requires more than a glance at the color, and in most cases, it requires lab testing by a licensed Mold Assessment Consultant to be certain.
 
