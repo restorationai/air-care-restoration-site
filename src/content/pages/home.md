@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Air Care Restoration | Restoration Services in Abilene, TX"
-h1: "24/7 Restoration Services in Abilene"
-meta_description: "Air Care Restoration provides 24/7 water, fire, mold, and storm damage restoration across Abilene and surrounding areas. Licensed, insured, IICRC-certified. Call (325) 339-8723."
-primary_keyword: "restoration services abilene"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Abilene, TX | Air Care Restoration"
+h1: "24/7 Water Damage Restoration in Abilene, TX"
+meta_description: "Air Care Restoration provides water damage restoration in Abilene, TX, answering 24/7. IICRC certified. Call (325) 339-8723 now."
+primary_keyword: "water damage restoration abilene"
+secondary_keywords: ["best restoration company in abilene", "restoration company abilene", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "d354f515de504226"
