@@ -17,7 +17,7 @@ area_slug: "merkel-tx"
 service_slug: "flood-damage-restoration"
 city: "Merkel"
 state: "TX"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

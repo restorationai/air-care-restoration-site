@@ -17,7 +17,7 @@ area_slug: "brownwood-tx"
 service_slug: "flood-damage-restoration"
 city: "Brownwood"
 state: "TX"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

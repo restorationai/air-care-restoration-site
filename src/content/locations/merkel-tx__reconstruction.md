@@ -17,7 +17,7 @@ area_slug: "merkel-tx"
 service_slug: "reconstruction"
 city: "Merkel"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 When a fire, storm, or burst pipe leaves a Merkel home or business with damaged framing, subfloor, or exterior walls, the work doesn't stop at drying and demolition. Reconstruction is where the property actually comes back together, and in a small West Texas town along the I-20 corridor, that often means working around older frame construction, standalone well and septic systems, and a rebuild timeline that has to account for scheduling contractors from outside a town this size.

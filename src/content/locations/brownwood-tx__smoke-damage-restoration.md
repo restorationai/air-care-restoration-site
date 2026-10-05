@@ -17,7 +17,7 @@ area_slug: "brownwood-tx"
 service_slug: "smoke-damage-restoration"
 city: "Brownwood"
 state: "TX"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

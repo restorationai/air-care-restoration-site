@@ -17,7 +17,7 @@ area_slug: "tuscola-tx"
 service_slug: "reconstruction"
 city: "Tuscola"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 When a house fire, a collapsed roofline, or a slow-building water loss leaves a Tuscola property down to studs and subfloor, the rebuild has to account for what's actually out here: older ranch and farmhouse construction, long distances between a job site and a lumber supplier, and a Taylor County permitting office that isn't set up for same-day turnaround. Reconstruction in a small town south of Abilene moves at a different pace than a subdivision job, and the plan has to be built around that from day one.

@@ -17,7 +17,7 @@ area_slug: "sweetwater-tx"
 service_slug: "commercial-restoration"
 city: "Sweetwater"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Sweetwater's commercial corridor along I-20 and the older brick storefronts downtown near the rail line carry two very different risk profiles: modern metal-frame retail buildings that flood fast when a rooftop unit or sprinkler line fails, and early-1900s masonry buildings where water gets into wall cavities and stays there. Add West Texas wind and the dust it drives into HVAC systems, plus the region's flash-flood-prone summer storms, and commercial property managers in Nolan County deal with water and fire losses that don't behave like a textbook case. Air Care Restoration handles both ends of that spectrum for offices, retail spaces, and light industrial buildings across Sweetwater.

@@ -17,7 +17,7 @@ area_slug: "clyde-tx"
 service_slug: "reconstruction"
 city: "Clyde"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 When a fire, storm, or burst pipe tears through the structural bones of a home, the rebuild has to match what was actually there before, not a generic replacement. In Clyde, that often means matching board-and-batten siding, brick veneer over slab foundations, or the metal roofing common on ranch-style homes throughout Callahan County. Reconstruction here isn't just framing and drywall; it's rebuilding to the way West Texas homes are actually built.

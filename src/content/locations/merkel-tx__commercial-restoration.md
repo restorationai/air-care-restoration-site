@@ -17,7 +17,7 @@ area_slug: "merkel-tx"
 service_slug: "commercial-restoration"
 city: "Merkel"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Merkel's commercial corridor runs along a stretch of Interstate 20 and old US 80, where small retail storefronts, single-story offices, and metal-sided shops sit close enough to Abilene for daily commerce but far enough out that a burst supply line or grease fire can sit unnoticed until a manager unlocks the door the next morning. Commercial restoration here means working fast around business hours, brick storefronts with aging roofs, and the wind-driven dust that finds its way into every gap in a building envelope.

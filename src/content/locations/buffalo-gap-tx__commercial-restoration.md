@@ -17,7 +17,7 @@ area_slug: "buffalo-gap-tx"
 service_slug: "commercial-restoration"
 city: "Buffalo Gap"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Buffalo Gap's small commercial footprint, a scattering of storefronts, offices, and service buildings along the two-lane road into town, means a burst supply line or an electrical fire doesn't just cost a business owner money. It can shut down one of the only shops in town for weeks if the water and smoke aren't handled fast and correctly. Commercial restoration here looks different than it does in a strip mall in Abilene proper, and the buildings themselves tell you why.

@@ -17,7 +17,7 @@ area_slug: "anson-tx"
 service_slug: "flood-damage-restoration"
 city: "Anson"
 state: "TX"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

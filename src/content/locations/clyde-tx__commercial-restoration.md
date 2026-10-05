@@ -17,7 +17,7 @@ area_slug: "clyde-tx"
 service_slug: "commercial-restoration"
 city: "Clyde"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Clyde's commercial core sits tight along the I-20 frontage between Abilene and Cisco, a strip of small retail buildings, offices, and metal-frame shops built for function first. When a pipe bursts behind a drop ceiling in one of those storefronts or a grease fire scorches a kitchen hood in a Main Street restaurant, the damage rarely stays contained to one unit. Shared walls, shared HVAC returns, and tight lease timelines mean commercial water and fire damage in Clyde has to be handled fast, documented well, and coordinated with whoever holds the keys, whether that's an owner-operator or a property manager overseeing several tenants.

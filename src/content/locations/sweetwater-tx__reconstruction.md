@@ -17,7 +17,7 @@ area_slug: "sweetwater-tx"
 service_slug: "reconstruction"
 city: "Sweetwater"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 Rebuilding a home or business in Sweetwater after fire, water, or storm damage means working around West Texas building patterns that a generic reconstruction crew won't anticipate. Along the I-20 corridor, where Sweetwater grew up as a rail and oil town, you'll find a mix of mid-century brick homes and wood-frame properties that each demand different framing, wiring, and permitting approaches once the damaged materials come out.

@@ -17,7 +17,7 @@ area_slug: "tuscola-tx"
 service_slug: "commercial-restoration"
 city: "Tuscola"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 When a burst supply line floods a storefront on a Saturday or a grease fire closes a diner's kitchen mid-week, Tuscola's business owners don't have a large commercial services sector to call on the way Abilene does. Air Care Restoration works commercial water damage, fire damage, and reconstruction jobs along the US-83/277 corridor through Taylor County, and we size every response to the reality of a small-town commercial strip: fewer vendors, tighter timelines to reopen, and buildings that don't always match the drying assumptions built for a big-city office tower.

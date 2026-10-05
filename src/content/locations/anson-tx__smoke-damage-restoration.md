@@ -17,7 +17,7 @@ area_slug: "anson-tx"
 service_slug: "smoke-damage-restoration"
 city: "Anson"
 state: "TX"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

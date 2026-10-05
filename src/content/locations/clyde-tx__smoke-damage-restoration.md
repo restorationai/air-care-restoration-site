@@ -17,7 +17,7 @@ area_slug: "clyde-tx"
 service_slug: "smoke-damage-restoration"
 city: "Clyde"
 state: "TX"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

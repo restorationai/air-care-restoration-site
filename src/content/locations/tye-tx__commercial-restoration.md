@@ -17,7 +17,7 @@ area_slug: "tye-tx"
 service_slug: "commercial-restoration"
 city: "Tye"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Commercial restoration in Tye looks different than it does on the other side of Abilene. Most of the businesses along I-20 and the frontage roads here sit in metal-frame or tilt-wall buildings built for function first, not for moisture management, and a roof leak or grease fire behind a retail counter can shut down a business for days if the response isn't fast and organized. We work with property managers, landlords, and business owners across Taylor County who need a building back open, not just dried out.

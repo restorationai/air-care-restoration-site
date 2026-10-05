@@ -17,7 +17,7 @@ area_slug: "buffalo-gap-tx"
 service_slug: "reconstruction"
 city: "Buffalo Gap"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 Buffalo Gap sits where the Callahan Divide breaks open south of Abilene, a stretch of West Texas where cedar ridges drop into grassland that dries out fast every summer and carries real wildfire risk once the wind picks up. When a grass fire reaches a fence line, or a plumbing failure collapses a ceiling in one of the town's older rock and frame homes, the rebuild that follows looks different than a subdivision job. It means working with limestone masonry, shifting caliche soil, and county permitting instead of an HOA architectural committee. Air Care Restoration handles that structural rebuild once the damage is documented and the site is dry, from framing and drywall to roofing and finish carpentry.

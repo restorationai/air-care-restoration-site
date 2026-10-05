@@ -17,7 +17,7 @@ area_slug: "anson-tx"
 service_slug: "reconstruction"
 city: "Anson"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 When a kitchen fire or a slow plumbing leak tears into the framing of a Jones County home, the rebuild has to account for what's underneath: the expansive clay soils common across this stretch of the Rolling Plains shift with every wet-dry cycle, and a structure that was already settling before the loss needs more than fresh drywall. Air Care Restoration handles the full arc, from tear-out through framing, insulation, and finish work, so Anson property owners aren't managing separate demolition and rebuild crews on top of an insurance claim.

@@ -17,7 +17,7 @@ area_slug: "tye-tx"
 service_slug: "reconstruction"
 city: "Tye"
 state: "TX"
-service_display: "reconstruction"
+service_display: "Reconstruction"
 rendered: true
 ---
 When a house fire, burst water line, or wind event tears into the structure of a Tye home, the damage rarely stops at the surface. Studs get scorched, subfloor swells and delaminates, and load-bearing walls sometimes need more than a patch. Reconstruction services in Tye mean rebuilding what was lost to code, not just covering it up, and doing it in a way that holds up to West Texas heat, wind, and the clay-heavy ground under most of Taylor County.
