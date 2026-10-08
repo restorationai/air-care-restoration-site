@@ -116,6 +116,15 @@
       1200
     ]
   },
+  "/images/services/emergency-water-removal.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/fire-damage-restoration.webp": {
     "width": 1376,
     "height": 768,
@@ -153,6 +162,15 @@
     ]
   },
   "/images/services/large-loss-response.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/lead-paint-abatement.webp": {
     "width": 1376,
     "height": 768,
     "variants": [
@@ -233,6 +251,15 @@
       1200
     ]
   },
+  "/images/services/trauma-scene-cleanup.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/vandalism-cleanup.webp": {
     "width": 1376,
     "height": 768,
@@ -290,15 +317,6 @@
   "/images/team.webp": {
     "width": 1333,
     "height": 888,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
-  },
-  "/images/services/emergency-water-removal.webp": {
-    "width": 1376,
-    "height": 768,
     "variants": [
       480,
       768,
