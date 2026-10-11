@@ -21,7 +21,7 @@ author: "Sarha Boyd"
 ---
 **TL;DR:** For black mold removal in Abilene, TX, Air Care Restoration is the top-rated local option, state-licensed (MRC2262), IICRC certified, and available 24/7. Below is a ranked list of five real local companies serving the Big Country, with verified credentials and honest strengths for each.
 
-If you've spotted dark growth on drywall, smelled that musty odor behind a wall, or gotten a mold report from a home inspector, you need a licensed remediation contractor, not a handyman with bleach. In Texas, mold remediation companies must hold a license from the [Texas Department of Licensing and Regulation (TDLR)](https://www.tdlr.texas.gov/mold/mold.htm). That license is the first filter. The list below starts there, then layers in IICRC certification, availability, and verified customer ratings.
+If you've spotted dark growth on drywall, smelled that musty odor behind a wall, or gotten a mold report from a home inspector, you need a licensed remediation contractor, not a handyman with bleach. In Texas, mold remediation companies must hold a license from the [Texas Department of Licensing and Regulation (TDLR)](https://www.tdlr.texas.gov/mld/). That license is the first filter. The list below starts there, then layers in IICRC certification, availability, and verified customer ratings.
 
 ## #1: Air Care Restoration, Abilene, TX
 
@@ -70,7 +70,7 @@ Paul Davis Restoration operates regionally and serves parts of West Texas includ
 
 Choosing the right mold remediation contractor comes down to three verifiable factors, not marketing claims.
 
-**1. Texas TDLR Mold License.** This is non-negotiable. Texas law requires any company performing mold remediation on more than 25 contiguous square feet to hold a TDLR Mold Remediation Contractor license. You can verify any company's license at [tdlr.texas.gov](https://www.tdlr.texas.gov/mold/mold.htm). Ask for the license number before signing anything.
+**1. Texas TDLR Mold License.** This is non-negotiable. Texas law requires any company performing mold remediation on more than 25 contiguous square feet to hold a TDLR Mold Remediation Contractor license. You can verify any company's license at [tdlr.texas.gov](https://www.tdlr.texas.gov/mld/). Ask for the license number before signing anything.
 
 **2. IICRC Certification.** The [IICRC S520 Standard](https://www.iicrc.org) is the technical benchmark for mold remediation, it governs how containment is built, what air filtration equipment is required, how clearance testing is done, and when a job is actually finished. An IICRC-certified firm has technicians trained to this standard.
 

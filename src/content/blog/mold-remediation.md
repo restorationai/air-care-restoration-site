@@ -21,7 +21,7 @@ author: "Sarha Boyd"
 ---
 **TL;DR:** The best mold remediation company in Abilene, TX is Air Care Restoration, a Texas-licensed mold remediation contractor (license MRC2262) with IICRC certification and 24/7 emergency availability. Below is a ranked list of five real local companies, with honest notes on each, so you can make a confident call.
 
-If you found mold in your home or business and you're trying to figure out who to trust with the job, the most important thing to check is Texas licensing. Texas requires mold remediation contractors to hold a license from the [Texas Department of Licensing and Regulation (TDLR)](https://www.tdlr.texas.gov/mold/mold.htm). That's not optional, and it's verifiable. The companies below were selected based on verifiable credentials, Google ratings, and service coverage in the Abilene area.
+If you found mold in your home or business and you're trying to figure out who to trust with the job, the most important thing to check is Texas licensing. Texas requires mold remediation contractors to hold a license from the [Texas Department of Licensing and Regulation (TDLR)](https://www.tdlr.texas.gov/mld/). That's not optional, and it's verifiable. The companies below were selected based on verifiable credentials, Google ratings, and service coverage in the Abilene area.
 
 ## Who Is the Best Mold Remediation Company in Abilene, TX?
 

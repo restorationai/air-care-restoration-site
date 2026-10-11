@@ -19,7 +19,7 @@ services: ["water-damage-restoration", "sewage-cleanup", "biohazard-cleanup"]
 rendered: true
 author: "Sarha Boyd"
 ---
-**TL;DR:** Category 3 water damage, defined by the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), involves grossly contaminated water containing pathogens, sewage, or toxic substances. It is the most hazardous water classification. Carpet, padding, drywall, and insulation that contact Category 3 water must be removed and discarded. Cleaning and disinfecting without removing those materials is not sufficient. Professional remediation with proper PPE, containment, and disposal is required every time.
+**TL;DR:** Category 3 water damage, defined by the [IICRC S500 standard](https://iicrc.org/s500/), involves grossly contaminated water containing pathogens, sewage, or toxic substances. It is the most hazardous water classification. Carpet, padding, drywall, and insulation that contact Category 3 water must be removed and discarded. Cleaning and disinfecting without removing those materials is not sufficient. Professional remediation with proper PPE, containment, and disposal is required every time.
 
 If your basement flooded from a sewer backup, a toilet overflowed and soaked the subfloor, or floodwater from outside poured into your home, you are likely looking at a Category 3 loss. The water looks dirty, smells worse, and carries bacteria and viruses that survive on surfaces long after the water is gone. This is not a situation where a shop vac and some bleach will make things safe again. Here is what Category 3 water actually is, how it is classified, and what a certified crew does to remediate it correctly.
 
@@ -35,7 +35,7 @@ Here is a quick reference for all three:
 | Category 2 | Gray water | Washing machine, dishwasher, toilet with urine | Moderate |
 | Category 3 | Black water | Sewage backup, rising floodwater, long-standing Cat 2 | High |
 
-One important point most homeowners miss: Category 2 water becomes Category 3 if it sits long enough. The [CDC guidance on emergency water cleanup](https://www.cdc.gov/healthywater/emergency/cleanup/) notes that standing water rapidly supports bacterial growth. Within 24 to 48 hours, gray water that was not extracted can cross into black water territory. This is one reason response time matters so much.
+One important point most homeowners miss: Category 2 water becomes Category 3 if it sits long enough. The [CDC guidance on emergency water cleanup](https://www.cdc.gov/natural-disasters/safety/index.html) notes that standing water rapidly supports bacterial growth. Within 24 to 48 hours, gray water that was not extracted can cross into black water territory. This is one reason response time matters so much.
 
 ## Is sewage backup always Category 3 water?
 

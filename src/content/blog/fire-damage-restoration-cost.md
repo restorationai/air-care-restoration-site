@@ -45,7 +45,7 @@ Six variables move the price more than anything else: square footage affected, t
 
 **Square footage and smoke reach.** Smoke travels through ductwork and wall cavities far beyond the room that burned, which is why a small kitchen fire can still require whole-house odor treatment.
 
-**Smoke type.** The [IICRC S700 fire restoration standard](https://www.iicrc.org/page/IICRCS700) classifies smoke residue by how it behaves. Dry smoke from paper and wood burns leaves a powdery residue that wipes away fairly easily. Wet smoke from smoldering plastics and synthetics leaves a sticky, smeared film that penetrates porous materials like drywall and insulation. Protein residue from a stovetop fire is nearly invisible but carries a strong odor and can etch painted surfaces and metal within hours.
+**Smoke type.** The [IICRC S700 fire restoration standard](https://iicrc.org/s700/) classifies smoke residue by how it behaves. Dry smoke from paper and wood burns leaves a powdery residue that wipes away fairly easily. Wet smoke from smoldering plastics and synthetics leaves a sticky, smeared film that penetrates porous materials like drywall and insulation. Protein residue from a stovetop fire is nearly invisible but carries a strong odor and can etch painted surfaces and metal within hours.
 
 **Firefighting water.** Most fires involve hundreds or thousands of gallons of suppression water, which soaks subfloors, drywall, and insulation the same way a burst pipe does. That water damage is usually mitigated alongside the fire cleanup, and our companion guide on [water damage restoration cost in TX](/blog/water-damage-restoration-cost-tx/) breaks down what that side of the job typically runs.
 

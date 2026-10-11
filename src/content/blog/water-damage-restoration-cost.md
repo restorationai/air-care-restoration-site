@@ -42,7 +42,7 @@ These are industry-typical ranges, not quotes. Air Care Restoration provides a w
 
 ## What Factors Drive the Cost Up or Down?
 
-The biggest cost driver in water damage restoration is the IICRC water category, which determines how much contamination is present and how aggressively the crew must work. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three categories that every certified restorer uses to scope a job.
+The biggest cost driver in water damage restoration is the IICRC water category, which determines how much contamination is present and how aggressively the crew must work. The [IICRC S500 standard](https://iicrc.org/s500/) defines three categories that every certified restorer uses to scope a job.
 
 **Category 1 (clean water)** comes from a supply line, a water heater, or a rain intrusion with no contamination. It is the least expensive to remediate because porous materials can often be dried in place rather than removed.
 
@@ -55,7 +55,7 @@ Beyond category, these factors move the number:
 - **Square footage affected.** Drying costs are often quoted per square foot. More area means more air movers, more dehumidifier runtime, more monitoring visits.
 - **Materials involved.** Hardwood floors, tile with mortar beds, and spray-foam-insulated walls all dry differently and some require removal. Standard drywall and carpet are cheaper to address than engineered hardwood or custom cabinetry.
 - **How long the water sat.** Water that sat for 48 hours or more has likely wicked into wall cavities and subfloor assemblies. What would have been a $2,500 job at 12 hours can become a $6,000 job at 72 hours. Mold growth can begin within 24 to 48 hours in warm, humid conditions, which adds a remediation scope on top of the drying scope.
-- **Structural drying time.** Most residential drying jobs take 3 to 5 days under the [IICRC S500](https://www.iicrc.org/page/IICRCS500) standard. Dense materials like concrete slabs or thick wood framing take longer. Each additional day of equipment runtime adds cost.
+- **Structural drying time.** Most residential drying jobs take 3 to 5 days under the [IICRC S500](https://iicrc.org/s500/) standard. Dense materials like concrete slabs or thick wood framing take longer. Each additional day of equipment runtime adds cost.
 - **Reconstruction required.** Mitigation (drying and removal) is a separate scope from reconstruction (replacing drywall, flooring, cabinetry). Many restoration companies handle both. Get a clear line in the estimate between what is mitigation and what is rebuild.
 
 If you have standing water right now, the [burst pipe emergency checklist](/blog/burst-pipe-emergency-checklist/) walks through what to do in the first hour before a crew arrives.
