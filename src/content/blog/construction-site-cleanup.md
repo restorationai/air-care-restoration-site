@@ -89,7 +89,7 @@ Not every cleaning company is equipped for post-construction work. Here's what s
 
 **Coordination with the GC schedule.** The best post-construction cleaners understand construction sequencing. They know not to do the final detail pass before the painter's punch-list visit, and they can mobilize quickly when the schedule compresses.
 
-For projects in Abilene that also involve water intrusion, mold, or hazardous material concerns discovered during construction, Air Care Restoration handles post-construction cleaning alongside licensed mold remediation and asbestos abatement, so you're not coordinating three separate contractors for one site.
+For projects in Abilene that also involve water intrusion, mold, or hazardous material concerns discovered during construction, Air Care Restoration handles post-construction cleaning alongside licensed mold remediation, so you have one team for cleanup and mold concerns on the same site.
 
 ## What Happens If You Skip Professional Post-Construction Cleanup?
 
@@ -107,7 +107,7 @@ If your next project in Abilene or the surrounding Big Country area needs a post
 
 **About Air Care Restoration**
 
-Air Care Restoration is an IICRC-certified firm based in Abilene, TX (license MRC2262, issued by the Texas Department of Licensing and Regulation). The company provides post-construction cleaning, mold remediation, asbestos abatement, water damage restoration, fire damage restoration, sewage cleanup, biohazard cleanup, air duct cleaning, contents restoration, emergency board-up and tarping, and general contracting services across Abilene and the surrounding Big Country region. Available 24/7.
+Air Care Restoration is an IICRC-certified firm based in Abilene, TX (license MRC2262, issued by the Texas Department of Licensing and Regulation). The company provides post-construction cleaning, mold remediation, water damage restoration, fire damage restoration, sewage cleanup, biohazard cleanup, air duct cleaning, contents restoration, emergency board-up and tarping, and general contracting services across Abilene and the surrounding Big Country region. Available 24/7.
 
 ## Video Transcript
 
