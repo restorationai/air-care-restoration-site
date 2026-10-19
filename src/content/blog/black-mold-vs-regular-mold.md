@@ -86,4 +86,4 @@ Skipping post-remediation verification is a red flag in any remediation bid. Wit
 
 ---
 
-If you've found mold in your home and aren't sure what you're dealing with, the safest first step is a professional assessment by a licensed Mold Assessment Consultant. Once you have a protocol in hand, Air Care Restoration serves Abilene and the surrounding area and can help you move forward with proper remediation. Call (325) 339-8723 to get started.
+If you've found mold in your home and aren't sure what you're dealing with, the safest first step is a professional assessment by a licensed Mold Assessment Consultant. Once you have a protocol in hand, Air Care Restoration serves Abilene and the surrounding area and can help you move forward with proper [mold remediation](/services/mold-remediation/). Call (325) 339-8723 to get started.

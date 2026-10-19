@@ -85,4 +85,4 @@ If the assessment is clean but you still have a smell or a symptom you can't exp
 
 ---
 
-If you're at the point where you've found something, a stain, a smell, a wet spot that's been there longer than it should have, and you want to move toward professional mold remediation, Air Care Restoration handles mold remediation in Abilene and the surrounding area. We can help connect you with an independent licensed mold assessment consultant for the assessment side of the process. Call (325) 339-8723 to talk through what you're seeing before deciding on next steps.
+If you're at the point where you've found something, a stain, a smell, a wet spot that's been there longer than it should have, and you want to move toward professional mold remediation, Air Care Restoration handles [mold remediation](/services/mold-remediation/) in [Abilene](/service-areas/abilene-tx/) and the surrounding area. We can help connect you with an independent licensed mold assessment consultant for the assessment side of the process. Call (325) 339-8723 to talk through what you're seeing before deciding on next steps.

@@ -75,7 +75,7 @@ Call a restoration company, not just a plumber, when any of the following are tr
 
 A plumber fixes the pipe. A water damage restoration crew handles everything that happened after the pipe broke, moisture mapping with thermal imaging and pin meters, industrial drying equipment, controlled demolition of materials that can't be saved, and documentation for your insurance carrier. These are different scopes of work, and you typically need both.
 
-If you're in the Abilene area and you're past the point of DIY mitigation, Air Care Restoration handles water damage restoration and can be reached at (325) 339-8723. The same process applies whether the source was a burst pipe, a failed appliance supply line, or a slow leak behind a wall that finally gave way, the drying science is the same regardless of what caused the water event.
+If you're in the Abilene area and you're past the point of DIY mitigation, Air Care Restoration handles [water damage restoration](/services/water-damage-restoration/) and [burst pipe repair](/services/burst-pipe-repair/) and can be reached at (325) 339-8723. The same process applies whether the source was a burst pipe, a failed appliance supply line, or a slow leak behind a wall that finally gave way, the drying science is the same regardless of what caused the water event.
 
 ## The Recovery Timeline: What Comes After the Emergency
 

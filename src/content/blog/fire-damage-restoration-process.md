@@ -89,7 +89,7 @@ If the fire was contained to a single small area, a stovetop flare-up that scorc
 
 The reason isn't just the equipment, though industrial drying and HEPA filtration do matter. It's the documentation. Restoration companies that work directly with insurance carriers produce the moisture logs, photo records, and scope-of-loss reports that adjusters need to process a claim. Doing the cleanup yourself and then filing for reimbursement is significantly harder.
 
-Air Care Restoration handles both fire damage and smoke damage restoration in Abilene and the surrounding area. If you're in the middle of this situation and need to talk through next steps, call (325) 339-8723.
+Air Care Restoration handles both [fire damage restoration](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/) in Abilene and the surrounding area. If you're in the middle of this situation and need to talk through next steps, call (325) 339-8723.
 
 ## The Timeline: What to Expect
 
