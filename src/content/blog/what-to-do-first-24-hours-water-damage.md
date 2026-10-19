@@ -98,4 +98,4 @@ Documentation from the drying phase, daily moisture readings, equipment logs, ph
 
 ---
 
-If you are dealing with water damage in Abilene right now and are not sure how far it has spread, Air Care Restoration can assess the situation, document the loss, and walk you through the next steps. Reach out at **(325) 339-8723**, getting an accurate picture of the damage early is almost always less expensive than finding out later what was left behind a wall.
+If you are dealing with [water damage](/services/water-damage-restoration/) in [Abilene](/service-areas/abilene-tx/) right now and are not sure how far it has spread, Air Care Restoration can assess the situation, document the loss, and walk you through the next steps. Reach out at **(325) 339-8723**, getting an accurate picture of the damage early is almost always less expensive than finding out later what was left behind a wall.

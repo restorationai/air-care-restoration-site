@@ -71,7 +71,7 @@ This one is about memory, not current observation. If your home had a roof leak 
 
 ## When To Call a Professional
 
-Call a mold remediation professional when:
+Call a [mold remediation](/services/mold-remediation/) professional when:
 
 - The visible affected area is larger than roughly 10 square feet (about the size of a standard interior door), this is the general threshold at which the EPA recommends professional remediation over DIY.
 - The mold is inside your HVAC system, inside walls, or under flooring.
