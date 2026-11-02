@@ -27,6 +27,8 @@ When water soaks through your drywall, smoke smell won't leave a room, or mold s
 
 **Reconstruction**, Restoration doesn't end when the damaged material comes out. We handle the rebuild, drywall, flooring, cabinetry, painting, so you're working with one company from first call to finished room, not coordinating between a mitigation crew and a separate contractor.
 
+**Storm damage restoration**, For Abilene businesses, our [commercial storm damage restoration services](/services/storm-damage-restoration/) cover emergency board-up, roof tarping, drying and the repairs that follow.
+
 ## Why homeowners and property managers call us
 
 Being available at 2 a.m. when a water heater fails matters more than any marketing claim. Our phones are answered 24 hours a day, seven days a week, because damage doesn't follow a business schedule.

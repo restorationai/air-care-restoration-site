@@ -41,7 +41,7 @@ Once it is safe to enter:
 
 ## How does the commercial storm damage restoration process work?
 
-Commercial storm restoration follows a defined sequence. Skipping steps or doing them out of order creates documentation gaps that slow the insurance claim.
+Commercial storm restoration follows a defined sequence. Skipping steps or doing them out of order creates documentation gaps that slow the insurance claim. Here is how our [commercial storm damage restoration services](/services/storm-damage-restoration/) run from the first call to the final repair.
 
 **Phase 1: Emergency stabilization (Day 1).** Crews install emergency board-up on broken windows and doors, apply roof tarps over breached sections, and begin water extraction if rain entered the building. This stops the loss from growing.
 
