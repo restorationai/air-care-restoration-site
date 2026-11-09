@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Commercial Restoration in Abilene | Air Care Restoration"
+title: "Commercial Water, Fire & Mold Restoration in Abilene, TX | Air Care"
 h1: "Commercial Restoration in Abilene"
-meta_description: "24/7 commercial restoration in Abilene and surrounding areas. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+meta_description: "Commercial water, fire, storm and mold restoration for Abilene businesses. 24/7 response, IICRC-certified, TX mold license MRC2262. Call (325) 339-8723."
 primary_keyword: "commercial restoration abilene"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"

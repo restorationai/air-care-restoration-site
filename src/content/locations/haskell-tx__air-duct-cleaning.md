@@ -1,8 +1,8 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Haskell, TX | Air Care Restoration"
+title: "Haskell, TX Air Duct & HVAC Duct Cleaning | Air Care Restoration"
 h1: "Air Duct Cleaning in Haskell"
-meta_description: "24/7 air duct cleaning in Haskell, TX. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+meta_description: "Air duct and HVAC duct cleaning in Haskell, TX from an Abilene-based, IICRC-certified firm. Licensed and insured. Call (325) 339-8723."
 primary_keyword: "air duct cleaning haskell"
 secondary_keywords: ["duct cleaning", "HVAC duct cleaning", "air duct sanitization", "dryer vent cleaning", "residential duct cleaning"]
 search_intent: "local_specialty"
