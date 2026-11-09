@@ -1,8 +1,8 @@
 ---
 archetype: "blog-post"
-title: "Commercial Storm Damage Restoration in Abilene, TX: What Business Owners Need to Do First"
+title: "Commercial Storm Damage Restoration in Abilene, TX: First Steps"
 h1: "Commercial Storm Damage Restoration in Abilene, TX: What Business Owners Need to Do First"
-meta_description: "A hailstorm or tornado just hit your Abilene commercial property. Here is what to document, what to secure, and how commercial storm damage restoration actually works in West Texas."
+meta_description: "Hail, wind or tornado damage to your Abilene business? What to secure, what to document and what to expect from commercial storm damage restoration services."
 primary_keyword: "commercial storm damage restoration"
 secondary_keywords: []
 search_intent: "commercial"

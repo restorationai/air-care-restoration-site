@@ -1,8 +1,8 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Brownwood, TX | Air Care Restoration"
+title: "Brownwood, TX Restoration & Storm Damage Repair | Air Care"
 h1: "Restoration Services in Brownwood"
-meta_description: "Serving Brownwood, TX with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (325) 339-8723."
+meta_description: "Water, fire, mold and storm damage restoration in Brownwood, TX. 24/7 emergency service, IICRC-certified, TX mold license MRC2262. Call (325) 339-8723."
 primary_keyword: "restoration services brownwood"
 secondary_keywords: ["brownwood restoration company", "damage restoration brownwood", "brownwood disaster restoration"]
 search_intent: "local_commercial"

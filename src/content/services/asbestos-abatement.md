@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Asbestos Abatement in Abilene | Air Care Restoration"
+title: "Asbestos Abatement & Removal in Abilene, TX | Air Care Restoration"
 h1: "Asbestos Abatement in Abilene"
-meta_description: "24/7 asbestos abatement in Abilene and surrounding areas. IICRC-certified, insurance billing accepted. Call (325) 339-8723."
+meta_description: "Asbestos abatement and removal in Abilene, TX and nearby towns. Licensed and insured, IICRC-certified firm, locally owned. Call (325) 339-8723."
 primary_keyword: "asbestos abatement abilene"
 secondary_keywords: ["asbestos removal", "asbestos testing", "asbestos remediation", "popcorn ceiling asbestos removal", "asbestos inspection"]
 search_intent: "local_specialty"
