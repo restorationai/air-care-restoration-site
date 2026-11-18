@@ -112,7 +112,7 @@ For a detailed look at the first critical window, see [What To Do in the First 2
 
 | Company | Google Rating | 24/7 Emergency | IICRC Certified | TX Mold License |
 |---|---|---|---|---|
-| Air Care Restoration | Locally verified | Yes | Yes (Firm + WRT) | Yes (MRC2262) |
+| Air Care Restoration | 5.0 | Yes | Yes (Firm + WRT) | Yes (MRC2262) |
 | ServiceMaster Restore | 4.5 stars | Franchise-dependent | Typically yes | Confirm when calling |
 | SERVPRO of Abilene | 4.4 stars | Franchise-dependent | Typically yes | Confirm when calling |
 | Restoration 1 of Abilene | 4.6 stars | Franchise-dependent | Confirm when calling | Confirm when calling |

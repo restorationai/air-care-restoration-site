@@ -31,11 +31,11 @@ Here is how all five companies compare:
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Air Care Restoration |, |, | Yes | Yes (IICRC Certified Firm, WRT) |
-| ServiceMaster by A-Town/Hi-Tech - Abilene | 4.8 | 111 |, |, |
-| SERVPRO of Abilene | 4.7 | 94 |, |, |
-| PuroClean of Abilene | 5.0 | 3 |, |, |
-| Pure Shield Mold Remediation | 5.0 | 2 |, |, |
+| Air Care Restoration | 5.0 | 22 | Yes | Yes (IICRC Certified Firm, WRT) |
+| ServiceMaster by A-Town/Hi-Tech - Abilene | 4.8 | 111 | Not listed | Not listed |
+| SERVPRO of Abilene | 4.7 | 94 | Not listed | Not listed |
+| PuroClean of Abilene | 5.0 | 3 | Not listed | Not listed |
+| Pure Shield Mold Remediation | 5.0 | 2 | Not listed | Not listed |
 
 ---
 

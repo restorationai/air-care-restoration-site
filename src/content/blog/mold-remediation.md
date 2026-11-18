@@ -93,11 +93,11 @@ For more on identifying mold problems before they escalate, see our post on [7 S
 
 | Company | Google Rating | 24/7 Emergency | TX Mold License | IICRC Certified |
 |---|---|---|---|---|
-| Air Care Restoration | Locally owned | Yes | MRC2262 (TDLR) | Yes |
-| ServiceMaster Restore (Abilene) | 4.5 stars | - | - | - |
-| Servpro of Abilene | 4.4 stars | - | - | - |
-| Rainbow Restoration of Abilene | 4.3 stars | - | - | - |
-| BELFOR (Abilene region) | 4.2 stars | - | - | - |
+| Air Care Restoration | 5.0 | Yes | MRC2262 (TDLR) | Yes |
+| ServiceMaster Restore (Abilene) | 4.5 stars | Not listed | Not listed | Not listed |
+| Servpro of Abilene | 4.4 stars | Not listed | Not listed | Not listed |
+| Rainbow Restoration of Abilene | 4.3 stars | Not listed | Not listed | Not listed |
+| BELFOR (Abilene region) | 4.2 stars | Not listed | Not listed | Not listed |
 
 *Competitor cells marked "-" reflect information not independently verified at time of publication. Always confirm credentials directly with any contractor before hiring.*
 
