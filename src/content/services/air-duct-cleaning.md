@@ -57,12 +57,12 @@ Typical costs for residential duct cleaning vary based on system size, duct mate
 
 | Scenario | Typical industry range |
 |---|---|
-| Small home, 1 system, accessible ductwork | $300 – $500 |
-| Average single-family home, 1 system | $450 – $750 |
-| Larger home or 2-system property | $700 – $1,200 |
-| Air duct sanitization added to cleaning | $100 – $300 additional |
-| Dryer vent cleaning (standalone) | $100 – $200 |
-| Heavy contamination, post-remediation, or neglected system | $800 – $1,500+ |
+| Small home, 1 system, accessible ductwork | $300 to $500 |
+| Average single-family home, 1 system | $450 to $750 |
+| Larger home or 2-system property | $700 to $1,200 |
+| Air duct sanitization added to cleaning | $100 to $300 additional |
+| Dryer vent cleaning (standalone) | $100 to $200 |
+| Heavy contamination, post-remediation, or neglected system | $800 to $1,500+ |
 
 *Industry reference ranges for budgeting context only, not an Air Care quote or guaranteed price. Every project is scoped and documented individually.*
 

@@ -63,12 +63,12 @@ Typical costs for asbestos abatement vary significantly by material type, quanti
 
 | Scenario | Typical range |
 |---|---|
-| Single room popcorn ceiling removal (up to 200 sq ft) | $1,500 – $3,000 |
-| Whole-house popcorn ceiling removal | $4,000 – $12,000 |
-| Vinyl floor tile and mastic removal (per room) | $1,000 – $3,500 |
-| Pipe or duct insulation removal (per linear foot) | $25 – $75 |
-| Asbestos inspection and lab sampling | $400 – $900 |
-| Commercial or multi-unit project | $10,000 – $50,000+ |
+| Single room popcorn ceiling removal (up to 200 sq ft) | $1,500 to $3,000 |
+| Whole-house popcorn ceiling removal | $4,000 to $12,000 |
+| Vinyl floor tile and mastic removal (per room) | $1,000 to $3,500 |
+| Pipe or duct insulation removal (per linear foot) | $25 to $75 |
+| Asbestos inspection and lab sampling | $400 to $900 |
+| Commercial or multi-unit project | $10,000 to $50,000+ |
 
 Every loss and every building is different. Air Care Restoration provides a written scope of work before any abatement begins, so there are no surprises on the back end. Homeowners insurance sometimes covers asbestos abatement when the ACM was disturbed by a covered peril, a burst pipe, storm damage, or fire, but policies vary, and coverage for abatement related to renovation or routine maintenance is typically excluded. We document the project thoroughly to support any claim you submit.
 
